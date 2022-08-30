@@ -1,0 +1,1 @@
+This is some of the Pixel Art I made during the Udemy class, "Pixel Art Master Course - Beginner to Professional/Freelance," that I am taking.
