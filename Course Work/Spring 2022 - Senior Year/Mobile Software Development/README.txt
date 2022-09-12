@@ -1,4 +1,4 @@
-Mobile Software Development was a class I took where I learned how to develop apps for IOS in Swift.
+Mobile Software Development was a class I took where I learned how to develop apps for iOS in Swift.
 
 I used a Mac and the Xcode application to created these projects.
 
