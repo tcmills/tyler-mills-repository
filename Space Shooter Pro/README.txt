@@ -2,4 +2,4 @@ The Space Shooter Pro is a Unity project I worked on during the Udemy class, "Th
 
 I could not get the executable to upload to this repository because some of the files it needed to run were too big for GitHub to upload.
 
-The C# scripts that the game runs with are in the Scripts folder.
+The C# scripts that the game runs with are in the Scripts folder and the Space Shooter Pro video shows what the project does.
