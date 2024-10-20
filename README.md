@@ -1,4 +1,4 @@
-#Tyler Mills Portfolio
+# Tyler Mills Portfolio
 
 Many of the coding projects that I, Tyler Mills, have worked on over my college career and onward.
 
