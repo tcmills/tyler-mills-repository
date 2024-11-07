@@ -15,9 +15,11 @@ Progress update video I made during development:<br/>
 "Discussion 21.1: Show and Tell (To the Magic Shop)" (4:47) https://youtu.be/prmW3zAOe14
   <br/>
   <br/>
-  <br/>
 ### Magic Mod
 The mod I am developing for Minecraft 1.19.2 in Java:<br/>
 https://github.com/tcmills/Forge-1.19.2-Magicmod
+
+Showcase of some of the features I have developed so far:<br/>
+"Magic Mod for Minecraft 1.19.2 (In Progress)" (11:39) https://youtu.be/AEPxdY5QQ2o
 
 
