@@ -15,6 +15,12 @@ Progress update video I made during development:<br/>
 "Discussion 21.1: Show and Tell (To the Magic Shop)" (4:47) https://youtu.be/prmW3zAOe14
   <br/>
   <br/>
+### Sunken Spiral
+The game I am creating in collaboration with a local indie team.
+
+"Sunken Spiral Demo" (0:34) https://youtu.be/5rk2itrhUd4
+  <br/>
+  <br/>
 ### Magic Mod
 The mod I am developing for Minecraft 1.19.2 in Java:<br/>
 https://github.com/tcmills/Forge-1.19.2-Magicmod
